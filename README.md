@@ -69,18 +69,20 @@ N'oubliez pas de préciser une estimation de temps pour chaque tache.
 
 ```mermaid
 mindmap
-  root)Fabrication de cookies(
-    Assemblage
-        🧈 Ramollir le beurre *25min*
-        ☕ Faire fondre le chocolat *15min*
-        🍫 Tailler le chocolat en pépite *10min*
-        🍪 Assemblage finale *30min*
-    ❄️Mettre au frais *3h*
-    Cuisson
-        🌡️ Four à température *15min*
-        ✂️ Découper en tronçon *4min*
-        ♨️ Cuisson *3x10min*
+  root)EFFET DE LA POLLUTION SUR LA GROSSESSE(
+    Immersion du sujet
+        🧈 Comprehension les données *1jour*
+        ☕ Webscrapping *1jour*
+        🍫 Exploration des documents *1jour*
+        
+    ❄️Organisation
+        🌡️ Cahier des charges 
+        ✂️ Cahier de bord 
+        ♨️ Echéancier 
+    Réalisation
 ```
+
+
 
 ### Gantt
 Prenez l'une des branches de la Work Breakdown Structure et créer un diagramme de Gantt ([documentation](https://mermaid.js.org/syntax/gantt.html)).
