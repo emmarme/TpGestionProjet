@@ -14,7 +14,7 @@ Dans ce TP, nous allons juste voir le strict minimum pour stocker nos schémas.
 ### Modifier le Readme
 Nous allons modifier le fichier README.md qui est affiché quand on arrive que le repostiory. Pour cela :
 
-1. Ouvrir le fichier en cliquant dessus
+1. OOOuvrir le fichier en cliquant dessus
 2. Cliquer sur le petit crayon en haut à droite
 3. Un éditeur s'ouvre. L'extension "md", c'est pour Markdown, un langage qui permet de structurer un document. Jetez un œil à la documentation [https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 4. Modifiez le fichier puis appuyez sur "Commit changes..." (bouton vert en haut à droite)
