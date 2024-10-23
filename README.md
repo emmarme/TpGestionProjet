@@ -1,4 +1,4 @@
-# Tp - GestionProjet teste
+# Tp - GestionProjet test
 ## Préparation
 ### Dupliquer le "repository"
 **Github:** C'est une application web que l'on va utiliser pour stocker et travailler en équipe sur notre projet. Il s'utilise normalement avec Git que nous verrons en détail dans un prochain cours.
