@@ -223,3 +223,48 @@ quadrantChart
 | ------------- | ------------- |
 | ❌ Four | Assurance |![image](https://github.com/user-attachments/assets/e0c248fb-c026-4ca8-b1c8-7510c8d02e7f)
 
+
+
+graph LR
+    X(("`Start
+    0 | 0`"))
+    style X stroke:red,stroke-width:4px
+    A(("`Exploration des documents 
+    1 | 25`"))
+    style A stroke:red,stroke-width:4px
+    B(("`Webscrapping 
+    1 | 55`"))
+    style B stroke:red,stroke-width:4px
+    C(("`Comprehension des donnees 
+    15 | 25`"))
+    D(("`🍫 
+    10 | 25`"))
+    E(("`❄️ 
+    235 | 235`"))
+    style E stroke:red,stroke-width:4px
+    F(("`🌡️ 
+    250 | 250`"))
+    style F stroke:red,stroke-width:4px
+    G(("`✂️ 
+    239 | 250`"))
+    H(("`♨️ 
+    290 | 290`"))
+    style H stroke:red,stroke-width:4px
+    subgraph Immersion
+    X -- 25 --> A
+    X -- 15 --> C
+    X -- 10 --> D
+    A -- 30 --> B
+    C -- 30 --> B
+    D -- 30 --> B
+    end
+    subgraph Mettre au frais
+    B -- 180 --> E
+    end
+    subgraph Cuisson
+    E -- 15 --> F
+    E -- 4 --> G
+    F -- 10 --> H
+    G -- 30 --> H
+    end
+
